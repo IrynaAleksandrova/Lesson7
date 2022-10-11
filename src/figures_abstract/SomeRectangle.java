@@ -1,4 +1,4 @@
-package figures;
+package figures_abstract;
 
 public class SomeRectangle extends Figure {
 
@@ -6,11 +6,11 @@ public class SomeRectangle extends Figure {
         super(a, b);
     }
 
-    protected double area() {
+    public double area() {
         return 0;
     }
 
-    protected double perimeter() {
+    public double perimeter() {
         return (a * b);
     }
 }

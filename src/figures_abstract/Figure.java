@@ -1,4 +1,4 @@
-package figures;
+package figures_abstract;
 
 public abstract class Figure {
     double a;
@@ -14,7 +14,7 @@ public abstract class Figure {
         this.r = r;
     }
 
-    protected abstract double area();
+    public abstract double area();
 
-    protected abstract double perimeter();
+    public abstract double perimeter();
 }

@@ -1,4 +1,4 @@
-package figures;
+package figures_abstract;
 
 public class Circle extends Figure {
 
@@ -9,12 +9,12 @@ public class Circle extends Figure {
         this.PI = PI;
     }
 
-    protected double area() {
+    public double area() {
         System.out.println("Area of a circle: ");
         return (r * r * PI);
     }
 
-    protected double perimeter() {
+    public double perimeter() {
         System.out.println("Perimeter of a circle: ");
         return (2 * r * PI);
     }

@@ -1,4 +1,4 @@
-package figures;
+package figures_abstract;
 
 public class Rectangle extends Figure {
 
@@ -6,12 +6,12 @@ public class Rectangle extends Figure {
         super(a, b);
     }
 
-    protected double area() {
+    public double area() {
         System.out.println("Area of a rectangle: ");
         return (a * b);
     }
 
-    protected double perimeter() {
+    public double perimeter() {
         System.out.println("Perimeter of a rectangle: ");
         return (2 * (a + b));
     }

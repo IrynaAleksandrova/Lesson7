@@ -1,4 +1,4 @@
-package figures;
+package figures_abstract;
 
 public class Main {
 //    Написать иерархию классов «Фигуры». Фигура -> Треугольник -> Прямоугольник -> Круг.
