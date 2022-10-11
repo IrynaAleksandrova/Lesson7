@@ -1,18 +1,21 @@
 package figures_inter;
 
 public class Rectangle implements Figure {
-    double a;
-    double b;
+    private double a;
+    private double b;
+
+    public Rectangle(double a, double b) {
+        this.a = a;
+        this.b = b;
+    }
 
     @Override
     public double area() {
-        System.out.println("Area of a rectangle: ");
         return (a * b);
     }
 
     @Override
     public double perimeter() {
-        System.out.println("Perimeter of a rectangle: ");
-        return (2 * (a + b));
+        return 2 * (a + b);
     }
 }

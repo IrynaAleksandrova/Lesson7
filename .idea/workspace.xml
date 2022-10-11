@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbc72044-a44e-4664-b8a3-bb77b1d1fc45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/figures_inter/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figures_inter/Figure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figures_inter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figures_inter/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figures_inter/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figures/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures_abstract/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figures/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures_abstract/Figure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figures/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures_abstract/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figures/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures_abstract/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figures/SomeRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures_abstract/SomeRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/figures/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures_abstract/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figures_abstract/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures_abstract/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figures_abstract/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures_abstract/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figures_inter/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures_inter/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figures_inter/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures_inter/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figures_inter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures_inter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figures_inter/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures_inter/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/figures_inter/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/figures_inter/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/job_title/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/job_title/Accountant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/job_title/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/job_title/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/job_title/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/job_title/Worker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.figures_inter.Main">
+  <component name="RunManager" selected="Application.figures_abstract.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="figures.Main" />
       <module name="Lesson7" />
@@ -117,8 +115,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.figures_inter.Main" />
         <item itemvalue="Application.figures_abstract.Main" />
+        <item itemvalue="Application.job_title.Main" />
+        <item itemvalue="Application.figures_inter.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -133,6 +132,9 @@
       <updated>1665466016350</updated>
       <workItem from="1665466018469" duration="15758000" />
       <workItem from="1665482241862" duration="1123000" />
+      <workItem from="1665484230986" duration="5130000" />
+      <workItem from="1665490561789" duration="781000" />
+      <workItem from="1665491981186" duration="1139000" />
     </task>
     <servers />
   </component>

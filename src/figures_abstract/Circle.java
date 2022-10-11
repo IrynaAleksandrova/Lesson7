@@ -2,7 +2,7 @@ package figures_abstract;
 
 public class Circle extends Figure {
 
-    double PI;
+    private double PI;
 
     public Circle(double r, double PI) {
         super(r);

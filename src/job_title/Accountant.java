@@ -2,7 +2,7 @@ package job_title;
 
 public class Accountant implements Employees {
 
-    String emp;
+    private String emp;
 
     Accountant(String emp) {
         this.emp = emp;
