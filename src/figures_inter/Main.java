@@ -26,12 +26,10 @@ public class Main {
         for (Figure figures : array) {
             sum += figures.perimeter();
         }
-        printPerimeter("Sum of perimeters = ", sum);
+        printPerimeter("Sum of perimeters five figures = ", sum);
     }
 
-    public static void printArea(Object o) {
-        System.out.println("Area: " + o.toString());
-    }
+    public static void printArea(Object o) { System.out.println("Area: " + o.toString()); }
 
     public static void printPerimeter(Object o) {
         System.out.println("Perimeter: " + o.toString());

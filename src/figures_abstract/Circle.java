@@ -9,11 +9,13 @@ public class Circle extends Figure {
         this.PI = PI;
     }
 
+    @Override
     public double area() {
         System.out.println("Area of a circle: ");
         return (r * r * PI);
     }
 
+    @Override
     public double perimeter() {
         System.out.println("Perimeter of a circle: ");
         return (2 * r * PI);

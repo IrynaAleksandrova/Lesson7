@@ -28,6 +28,6 @@ public class Main {
         for (Figure figures : array) {
             sum += figures.perimeter();
         }
-        System.out.println("Sum of perimeters = " + sum);
+        System.out.println("Sum of perimeters five figures = " + sum);
     }
 }
